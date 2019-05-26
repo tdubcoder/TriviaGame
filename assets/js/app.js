@@ -1,5 +1,5 @@
 var countingDown = document.getElementById("timer")
-var counter = 30;
+var counter = 60;
 var newElement = document.createElement("span");
 newElement.innerHTML = "10";
 var id;
